@@ -1,0 +1,12 @@
+C:\Users\Gagan C B\PycharmProjects\pythonProject
+  .idea
+  venv
+  art_1.py
+  exp.txt
+  exp.txt.py
+  frast.py
+  main.py
+  pro2.py
+  progam2.py
+  program11.html
+  selection sort.py
